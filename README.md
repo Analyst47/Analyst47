@@ -59,11 +59,6 @@ My ultimate goal is to work in a **Security Operations Center (SOC)** or cyberse
 ---
 
 ## 🏅 Certifications  
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
 
 ---
 
