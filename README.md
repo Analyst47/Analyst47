@@ -64,7 +64,7 @@ My ultimate goal is to work in a **Security Operations Center (SOC)** or cyberse
 
 ## 🚀 Projects  
 
-- 🔐 <a href="https://github.com/fahimabrar/VulnerabilityTrackerXL">**VulnerabilityTrackerXL**</a> – Cybersecurity vulnerability dashboard built with Google Apps Script and advanced visualizations.  
+- 🔐 | Vulnerability Management & Risk Assessment | [VulnerabilityTrackerXL](https://github.com/yourusername/VulnerabilityTrackerXL) |
 - 🧠 <a href="https://github.com/fahimabrar/CyberScan-Automator">**CyberScan Automator**</a> – Python tool to automate Tenable vs DHS weekly report comparisons.  
 - ⚡ **Security Analytics Dashboard** – Data-driven visualization project highlighting vulnerability trends and risk insights.
 
