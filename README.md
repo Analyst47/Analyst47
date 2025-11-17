@@ -2,8 +2,6 @@
 <a href="https://linkedin.com/in/fahimabrar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/fahimabrar"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![Cybersecurity Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 I am an undergraduate student at **Rowan University**, pursuing a **B.S. in Computing and Informatics** with a concentration in **Cybersecurity**.  
 
 Currently, I work at Rowan University’s **Information Resources & Technology (IRT) Office** as an **Information Security Analyst**, specializing in **vulnerability management**, **security automation**, and **incident response**.
