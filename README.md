@@ -1,159 +1,130 @@
-<!--
-This README is now supercharged with dynamic, graphical elements.
+# 👋 Hi, I'm Fahim Abrar  
+<a href="https://linkedin.com/in/fahimabrar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/fahimabrar"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-An animated wave banner sets a professional tone.
+![Cybersecurity Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-A dynamic typing animation introduces your roles.
+I am an undergraduate student at **Rowan University**, pursuing a **B.S. in Computing and Informatics** with a concentration in **Cybersecurity**.  
 
-Badges are front and center.
+Currently, I work at Rowan University’s **Information Resources & Technology (IRT) Office** as an **Information Security Analyst**, specializing in **vulnerability management**, **security automation**, and **incident response**.
 
-GitHub Trophies and Stats provide instant visual data.
+---
 
-The interactive toolbox is retained.
--->
+## 🎯 Objective  
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3D0072b1%26height%3D300%26section%3Dheader%26text%3DFahim%2520Abrar%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DCybersecurity%2520Student%2520%257C%2520Security%2520Analyst%2520%257C%2520Automator%26descAlignY%3D51%26descAlign%3D68" alt="Fahim Abrar Header Banner" />
-</p>
+I aim to **strengthen my foundation in cybersecurity operations and risk management**, with hands-on experience in:  
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D20%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2Ba%2Bmore%2Bsecure%2Bdigital%2Bworld%252C%2Bone%2Bvulnerability%2Bat%2Ba%2Btime.%3BInformation%2BSecurity%2BAnalyst%2B%2540%2BRowan%2BIRT%3BB.S.%2BComputing%2B%2526%2BInformatics%2BStudent" alt="Dynamic Typing SVG" />
-</p>
+- Vulnerability Analysis & Risk Assessment  
+- Security Automation & Data Visualization  
+- SOC-style Threat Detection & Incident Response  
 
-<p align="center">
-<a href="https://linkedin.com/in/fahimabrar">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-<a href="mailto:abrarf1@rowan.edu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email Me-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfahimabrar%26color%3D0072b1%26style%3Dfor-the-badge" alt="Profile Views" />
-</p>
+My ultimate goal is to contribute to a **Security Operations Center (SOC)** or **cybersecurity engineering team**, protecting enterprise systems from real-world threats.
 
-<div align="center">
-<h2>🏆 My GitHub Trophies 🏆</h2>
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dfahimabrar%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D15%26margin-h%3D15" alt="GitHub Trophies" />
+---
+
+## 🏆 Certifications  
+
+- Currently preparing for **CompTIA Security+**  
+- Google IT Support Professional Certificate  
+
+---
+
+## 🧠 Key Skills  
+
+| Skill | Projects / Experience |
+|-------|---------------------|
+| Vulnerability Management & Risk Assessment | [VulnerabilityTrackerXL](https://github.com/fahimabrar/VulnerabilityTrackerXL) |
+| Security Automation & Data Comparison | [CyberScan Automator](https://github.com/fahimabrar/CyberScan-Automator) |
+| Threat Analysis & Incident Reporting | IRT Vulnerability Reporting & Ticket Remediation |
+| Scripting & Data Automation (Python, GAS) | [VulnerabilityTrackerXL](https://github.com/fahimabrar/VulnerabilityTrackerXL) |
+| Security Dashboard & Visualization Design | [Cyber Dashboard UI](https://github.com/fahimabrar/VulnerabilityTrackerXL) |
+| Network Security Monitoring & Log Review | Internal Security Operations (Rowan IRT) |
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔐 VulnerabilityTrackerXL (Flagship Project)  
+
+![VulnerabilityTrackerXL GIF](https://media.giphy.com/media/3o7aD4Yh0QjF2v3nLq/giphy.gif)
+
+A **Google Apps Script + Google Sheets cybersecurity dashboard** that tracks, analyzes, and visualizes enterprise vulnerabilities with interactive charts and automated reporting.  
+
+**Key Features:**  
+- Multi-page dashboard for **high-level & detailed vulnerability views**  
+- Severity & status-based analysis (Critical, High, Medium, Low)  
+- Automated CSV import, comparison, and reporting  
+- Team metrics & SOC-style operational insights  
+- Dark-themed, professional UI for live monitoring  
+
+**🔗 Live Demo:** [VulnerabilityTrackerXL Dashboard](https://github.com/fahimabrar/VulnerabilityTrackerXL)  
+
+---
+
+### 🚀 PhishDetect SOC Dashboard  
+
+![PhishDetect GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+A **real-time phishing URL analysis dashboard** that models a **Security Operations Center (SOC) workflow**.  
+
+**Key Features:**  
+- Classifies URLs as Safe, Suspicious, or Malicious using heuristic analysis  
+- Evaluates HTTPS usage, URL length, suspicious keywords, and special characters  
+- Provides detailed reasoning for each classification  
+- Interactive charts and trend visualization  
+- Fully web-based and runs entirely in the browser  
+
+**🛠 Tech Stack:** HTML, CSS, JavaScript, Chart.js, GitHub Pages  
+
+**🔗 Live Demo:** [PhishDetect in Action](https://lnkd.in/edbnFVZM)  
+
+---
+
+## 🧰 Tools & Technologies  
+
+### 🖧 Network Security  
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
 
-👨‍💻 About Me
+### 💻 Endpoint Security  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSSEC-5C2D91?&style=for-the-badge&logoColor=white" />
+</div>
 
-I'm an undergraduate student at Rowan University, pursuing a B.S. in Computing and Informatics with a strategic concentration in Cybersecurity.
+### 📊 SIEM & Security Platforms  
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Security-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable.io-009CDE?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
 
-Currently, I work at Rowan's Information Resources & Technology (IRT) Office as an Information Security Analyst. In this role, I'm actively involved in:
+### ⚙️ Development & Automation  
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Apps_Script-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+</div>
 
-🔎 Assisting with enterprise-level vulnerability management.
+---
 
-🤖 Automating security data workflows.
+## 📈 GitHub Stats  
 
-🔬 Researching emerging threats and security solutions.
+![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimabrar&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimabrar&layout=compact&theme=dark)
 
-🎯 Core Focus
+---
 
-My objective is to build a strong, practical foundation in cybersecurity operations and risk management. I am passionately driving towards a career in a Security Operations Center (SOC) or a Cybersecurity Engineering environment.
+## 🤝 Connect with Me  
 
-My key areas of focus are:
+<a href="https://linkedin.com/in/fahimabrar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:fahim.abrar@example.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-🛡️ Vulnerability Analysis & Management
+---
 
-🤖 Security Automation (Python & Google Apps Script)
-
-📈 Data-Driven Security (Visualization & Dashboards)
-
-🔎 Incident Response & Threat Analysis
-
-🧰 My Toolbox
-
-Here are some of the skills, tools, and technologies I work with. Click on any category to expand it!
-
-<details>
-<summary><strong>📊 SIEM & Security Platforms</strong></summary>
-
-
-
-
-
-<p align="left">
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk" />
-<img src="https://img.shields.io/badge/-Elastic_Security-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic Security" />
-<img src="https://img.shields.io/badge/-Tenable.io-009CDE?&style=for-the-badge&logo=Tenable&logoColor=white" alt="Tenable.io" />
-</p>
-</details>
-
-<details>
-<summary><strong>💻 Endpoint & Network Security</strong></summary>
-
-
-
-
-
-<p align="left">
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" alt="Velociraptor" />
-<img src="https://img.shields.io/badge/-OSSEC-5C2D91?&style=for-the-badge&logoColor=white" alt="OSSEC" />
-</p>
-</details>
-
-<details>
-<summary><strong>🤖 Automation & Development</strong></summary>
-
-
-
-
-
-<p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Google_Apps_Script-34A853?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Apps Script" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Git-F05032%3F%26style%3Dfor-the-badge%26logo%3DGit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-</p>
-</details>
-
-🚀 My Projects
-
-Here are a few projects that showcase my skills in automation and security analysis.
-
-1. 🔐 VulnerabilityTrackerXL
-
-A comprehensive vulnerability management dashboard built entirely within the Google Workspace ecosystem. It automates the ingestion of vulnerability reports, tracks remediation status, and provides a live visualization dashboard for security analysts and management.
-
-Tech: Google Apps Script, Google Sheets, JavaScript (for Dashboard UI)
-
-Links:
-<a href="https://github.com/fahimabrar/VulnerabilityTrackerXL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-181717%3F%26style%3Dfor-the-badge%26logo%3DGitHub%26logoColor%3Dwhite" alt="View Repository" />
-</a>
-<a href="[PASTE YOUR LIVE DEMO LINK HERE]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-4285F4%3F%26style%3Dfor-the-badge%26logo%3DGoogle-Cloud%26logoColor%3Dwhite" alt="Live Demo" />
-</a>
-<!-- Don't forget to update the [PASTE YOUR LIVE DEMO LINK HERE] placeholder! -->
-
-2. 🤖 CyberScan Automator
-
-A Python-based utility designed to automate the comparison of security scan outputs. This script ingests multiple scan reports (e.g., from different time periods) and identifies new, resolved, and persistent vulnerabilities to streamline the analysis process.
-
-Tech: Python
-
-Links:
-<a href="https://github.com/fahimabrar/CyberScan-Automator">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-181717%3F%26style%3Dfor-the-badge%26logo%3DGitHub%26logoColor%3Dwhite" alt="View Repository" />
-</a>
-
-🏅 Certifications
-
-I am currently preparing for the [CompTIA Security+] certification.
-
-<!-- Update this as you progress or achieve new certifications! -->
-
-📊 My GitHub Stats
-
-<p align="center">
-<!--
-Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfahimabrar%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Fahim's GitHub Stats" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfahimabrar%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Fahim's Top Languages" />
-</p>
+✨ **“Building secure systems, one vulnerability at a time.”**  
