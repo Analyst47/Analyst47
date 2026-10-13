@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none" role="img" aria-label="KinetixZero vulnerability scanning">
+  <defs>
+    <linearGradient id="kSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E6EDF3" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#E6EDF3" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="kCard"><rect x="1" y="1" width="598" height="318" rx="14"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="598" height="318" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <g clip-path="url(#kCard)">
+    <!-- radar target -->
+    <g stroke="#30363D" stroke-width="1.5" fill="none">
+      <circle cx="200" cy="162" r="48"/>
+      <circle cx="200" cy="162" r="96"/>
+      <circle cx="200" cy="162" r="144"/>
+      <line x1="40" y1="162" x2="360" y2="162"/>
+      <line x1="200" y1="2" x2="200" y2="322"/>
+    </g>
+
+    <!-- rotating sweep arm -->
+    <g>
+      <path d="M200 162 L200 18 A144 144 0 0 1 320 92 Z" fill="url(#kSweep)"/>
+      <line x1="200" y1="162" x2="200" y2="18" stroke="#E6EDF3" stroke-width="2" stroke-opacity="0.6"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 200 162" to="360 200 162" dur="6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- nodes on the target -->
+    <g>
+      <circle cx="248" cy="120" r="4" fill="#8B949E"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="210" r="4" fill="#8B949E"><animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="286" cy="214" r="6" fill="#E6EDF3"><animate attributeName="r" values="6;8;6" dur="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="132" cy="120" r="3.5" fill="#8B949E"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- findings readout panel -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="392" y="70" font-size="12" fill="#6E7681" letter-spacing="1">FINDINGS</text>
+      <rect x="392" y="84" width="168" height="26" rx="5" fill="#161B22" stroke="#30363D"/>
+      <rect x="392" y="84" width="6" height="26" rx="3" fill="#E6EDF3"/>
+      <text x="408" y="101" font-size="11" fill="#E6EDF3">FIRM &#183; taint confirmed</text>
+
+      <rect x="392" y="118" width="168" height="26" rx="5" fill="#161B22" stroke="#30363D"/>
+      <rect x="392" y="118" width="6" height="26" rx="3" fill="#8B949E"/>
+      <text x="408" y="135" font-size="11" fill="#8B949E">FIRM &#183; CVE matched</text>
+
+      <rect x="392" y="152" width="168" height="26" rx="5" fill="#161B22" stroke="#30363D"/>
+      <rect x="392" y="152" width="6" height="26" rx="3" fill="#484F58"/>
+      <text x="408" y="169" font-size="11" fill="#8B949E">TENTATIVE &#183; review</text>
+
+      <text x="392" y="208" font-size="11" fill="#6E7681">CVSS 4.0 &#183; chain of custody</text>
+      <text x="392" y="226" font-size="11" fill="#6E7681">28 Semgrep rules &#183; OSV</text>
+    </g>
+  </g>
+</svg>
